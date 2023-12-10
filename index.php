@@ -14,5 +14,6 @@
     
     <?php wp_footer(); ?>
     <h1>Hello world</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error, modi obcaecati facilis nesciunt tempora deserunt, odit sint qui, sunt corrupti perspiciatis tenetur quas consequuntur officiis voluptates nostrum exercitationem molestiae mollitia? </p>
 </body>
 </html>
