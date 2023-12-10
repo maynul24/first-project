@@ -13,5 +13,6 @@
 <body <?php body_class();?>>
     
     <?php wp_footer(); ?>
+    <h1>Hello world</h1>
 </body>
 </html>
